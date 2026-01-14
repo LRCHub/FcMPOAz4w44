@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "エトセトラ",
+  "base_artist": "imase",
+  "createdAt": "2026-01-14T08:42:48.394828Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "エトセトラ",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/01_エトセトラ_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "エトセトラ",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/02_エトセトラ_imase.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "エトセトラ - Et cetera",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/03_エトセトラ_-_Et_cetera_imase.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "エトセトラ",
+      "artist": "大場久美子",
+      "has_synced": false,
+      "path": "select/04_エトセトラ_大場久美子.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "エトセトラ",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/05_エトセトラ_imase.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "エトセトラ / Et cetera",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/06_エトセトラ___Et_cetera_imase.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エトセトラ",
+      "artist": "imase",
+      "has_synced": false,
+      "path": "select/pl_01_エトセトラ_imase.txt"
+    }
+  ]
+}
